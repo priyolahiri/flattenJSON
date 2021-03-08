@@ -37,4 +37,6 @@ cat files/input.json | python main.py
 
 
 ## test
+```shell
 python tests.py
+```
