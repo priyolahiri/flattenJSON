@@ -31,7 +31,10 @@ exit if it encounters it.
 
 ## usage
 
+```shell
 cat files/input.json | python main.py
+```
+
 
 ## test
 python tests.py
